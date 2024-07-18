@@ -26,7 +26,7 @@ This involves cleaning and transforming raw data to make it suitable for analysi
     ![Overview](https://github.com/kareemathamzat/Images/blob/main/overview%20page.PNG)
 
     ### Demographics Page
-    ![Demographics]()
+    ![Demographics](https://github.com/kareemathamzat/Images/blob/main/Demographics.PNG)
 
     ### Performance Tracker Page
     ![Performance Tracker]()
