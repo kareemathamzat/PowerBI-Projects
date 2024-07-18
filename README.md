@@ -24,3 +24,11 @@ This involves cleaning and transforming raw data to make it suitable for analysi
 
     ### Overview Page
     ![Overview](https://github.com/kareemathamzat/Images/blob/main/overview%20page.PNG)
+
+    ### Demographics Page
+    ![Demographics]()
+
+    ### Performance Tracker Page
+    ![Performance Tracker]()
+    
+    
