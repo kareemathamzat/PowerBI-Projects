@@ -32,6 +32,6 @@ This involves cleaning and transforming raw data to make it suitable for analysi
     ![Performance Tracker](https://github.com/kareemathamzat/Images/blob/main/Performance%20Tracker.PNG)
 
     ### Attrition Page
-    ![Attrition]()
+    ![Attrition](https://github.com/kareemathamzat/Images/blob/main/Attrition.PNG)
     
     
