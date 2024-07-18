@@ -13,11 +13,14 @@ This involves cleaning and transforming raw data to make it suitable for analysi
   2) Data Transformation: Merging datasets, creating calculated columns, and summarizing data as needed.
   3) Data Modeling: Establishing relationships between different datasets to ensure seamless analysis in Power BI
   
-  ![Data Model](https://drive.google.com/file/d/1BKW16uLUZtZ5E1V8mlEW-vgjiDXwmo5P/view?usp=drive_link)
+  ![Data Model](https://github.com/kareemathamzat/Images/blob/main/data%20model.PNG)
 
-  ## Report and Visualizations
-  The eport is structured into four(4) pages each focusing on different aspects of HR Analytics:
+  ## 📊 Report and Visualizations
+  The report is structured into four(4) pages each focusing on different aspects of HR Analytics:
   - Overview: High-level summary of key metrics and trends.
   - Employee Demographics: Detailed analysis of employee distribution across various demographics.
   - Performance Analysis: Insights into employee performance ratings and review scores.
   - Attrition Analysis: Analysis of employee attrition rates, reasons for leaving, and tenure.
+
+    ### Overview Page
+    ![Overview]()
